@@ -1,0 +1,1 @@
+INSERT INTO `autoNorms2020` (`motorId`, `modelId`, `carId`, `typeId`, `make`, `model`, `litres`, `fuel`, `silovoyAgregat`, `module`, `engineSalesName`, `engineType`, `engineCode`, `modification_name`, `year`, `id`) VALUES (323, 82, 3, 675, 'Audi', 'A3 Saloon', '2,0', 'D', '', 'RT', '2,0D ', '', 'CRUA', '110 kW (150 л.с.) 3500 об/мин', '2014-2016', 324);
